@@ -2,5 +2,5 @@
 
 ## Оглавление
 
-1. Ссылка на сам фак [click](star-staff-java/Java FAQ.md).
+1. Ссылка на сам фак [click](https://github.com/Star-Staff/star-staff-java/blob/master/Java%20FAQ.md).
 2. Ссылка на презентацию:
